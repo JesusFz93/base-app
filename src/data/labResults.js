@@ -1,0 +1,58 @@
+const labResults = [
+  {
+    id: "LAB-2024-001",
+    title: "Biometría Hemática Completa",
+    type: "Sangre",
+    date: "10 Feb 2024",
+    icon: "bi-droplet-fill",
+    status: "Listo",
+    doctor: "Dr. Ángel Calderón",
+  },
+  {
+    id: "LAB-2024-002",
+    title: "Ultrasonido Obstétrico 4D",
+    type: "Imagen",
+    date: "12 Feb 2024",
+    icon: "bi-person-heart",
+    status: "Listo",
+    doctor: "Dr. Ángel Calderón",
+  },
+  {
+    id: "LAB-2024-003",
+    title: "Perfil Tiroideo T3-T4-TSH",
+    type: "Hormonal",
+    date: "15 Feb 2024",
+    icon: "bi-activity",
+    status: "Procesando",
+    doctor: "Dra. Maria Garcia",
+  },
+  {
+    id: "LAB-2024-004",
+    title: "Química Clínica (Glucosa)",
+    type: "Sangre",
+    date: "18 Feb 2024",
+    icon: "bi-capsule",
+    status: "Listo",
+    doctor: "Dra. Maria Garcia",
+  },
+  {
+    id: "LAB-2024-005",
+    title: "Papanicolaou / Citología",
+    type: "Citología",
+    date: "20 Feb 2024",
+    icon: "bi-microscope",
+    status: "Listo",
+    doctor: "Dr. Ángel Calderón",
+  },
+  {
+    id: "LAB-2024-006",
+    title: "Prueba de Embarazo Inmunológica",
+    type: "Sangre",
+    date: "22 Feb 2024",
+    icon: "bi-plus-circle-dotted",
+    status: "Listo",
+    doctor: "Dr. Ángel Calderón",
+  },
+];
+
+export default labResults;
